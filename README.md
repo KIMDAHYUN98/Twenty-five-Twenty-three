@@ -8,7 +8,8 @@
 <a href="https://github.com/KIMDAHYUN98/Twenty-five-Twenty-three#2-%ED%9A%8C%EC%9D%98-%EC%A3%BC%EC%A0%9C">2. 회의 주제</a><br>
 <a href="https://github.com/KIMDAHYUN98/Twenty-five-Twenty-three#3-%ED%9A%8C%EC%9D%98-%EC%9D%BC%EC%A0%95-%EB%B0%8F-%EC%8B%9C%EA%B0%84">3. 회의 일정 및 시간</a><br>
 <a href="https://github.com/KIMDAHYUN98/Twenty-five-Twenty-three#4-%ED%9A%8C%EC%9D%98-%EC%A7%84%ED%96%89-%EC%82%AC%ED%95%AD-%EC%A0%95%EB%A6%AC">4. 회의 진행 사항 정리</a><br>
-<a href="https://github.com/KIMDAHYUN98/Twenty-five-Twenty-three#5-%ED%9A%8C%EC%9D%98%EA%B2%B0%EA%B3%BC">5. 회의 결과</a><br>
+<a href="https://github.com/KIMDAHYUN98/Twenty-five-Twenty-three#5-%ED%9A%8C%EC%9D%98-%EA%B2%B0%EA%B3%BC">5. 회의 결과</a><br>
+<a href="https://github.com/KIMDAHYUN98/Twenty-five-Twenty-three#6-%EC%B0%B8%EA%B3%A0-%EB%AC%B8%ED%97%8C">6. 참고 문헌</a>
 
 ## 1. 회의 참여자
 <table>
@@ -235,4 +236,8 @@
 제시 후 아이디어를 선별하였다.
 그 후 KJ 기법, 여섯색깔모자, 마인드맵을 통해 해당 주제에 대한 토론을 나누어 결정하였다.
 
- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=THANK-YOU!)
+-----
+
+## 6. 참고 문헌
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=THANK-YOU!)
