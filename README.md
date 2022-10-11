@@ -246,7 +246,7 @@
 - 자체 설문조사
   - [구글 폼 설문조사](https://forms.gle/Q4uo6F5ma5dYzYx9A)
 - 추천 시스템의 이해
-  - 협업 필터링(https://kmhana.tistory.com/31)
-  - 콘텐츠 기반 필터링 추천 시스템(https://nicola-ml.tistory.com/64)
+  - [협업 필터링](https://kmhana.tistory.com/31)
+  - [콘텐츠 기반 필터링 추천 시스템](https://nicola-ml.tistory.com/64)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=THANK-YOU!)
