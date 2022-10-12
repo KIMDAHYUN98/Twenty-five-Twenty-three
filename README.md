@@ -9,7 +9,7 @@
 <a href="https://github.com/KIMDAHYUN98/Twenty-five-Twenty-three#3-%ED%9A%8C%EC%9D%98-%EC%9D%BC%EC%A0%95-%EB%B0%8F-%EC%8B%9C%EA%B0%84">3. 회의 일정 및 시간</a><br>
 <a href="https://github.com/KIMDAHYUN98/Twenty-five-Twenty-three#4-%ED%9A%8C%EC%9D%98-%EC%A7%84%ED%96%89-%EC%82%AC%ED%95%AD-%EC%A0%95%EB%A6%AC">4. 회의 진행 사항 정리</a><br>
 <a href="https://github.com/KIMDAHYUN98/Twenty-five-Twenty-three#5-%ED%9A%8C%EC%9D%98-%EA%B2%B0%EA%B3%BC">5. 회의 결과</a><br>
-<a href="https://github.com/KIMDAHYUN98/Twenty-five-Twenty-three#6-%EC%B0%B8%EA%B3%A0-%EB%AC%B8%ED%97%8C">6. 같이 보기</a>
+<a href="https://github.com/KIMDAHYUN98/Twenty-five-Twenty-three#6-%EA%B0%99%EC%9D%B4-%EB%B3%B4%EA%B8%B0">6. 같이 보기</a>
 
 ## 1. 회의 참여자
 <table>
